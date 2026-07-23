@@ -6,6 +6,9 @@ See the Slider2732_ YouTube channel for more information and videos about this p
 This project uses the Arduino IDE for code development. <br>
 Current version is ElectrostaticDetector_V101.ino, which is Version 1.01
 <br><br>
+Note <br>
+The grey wire running down the middle of the board is from the transistor Collector to Arduino A0 and is shielded (this one was from an ESP32 antenna extension). I tried unshielded and it did not work anywhere near as well as the shielded wire. 
+<br>
 ![Picture](./Pictures/ESVsmall.jpg)
 <br>
 <br>
