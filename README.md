@@ -1,5 +1,5 @@
-An ongoing DIY project to research and develop a DIY lightning and other electrostatics effects circuit. 
-The project uses an Arduino Nano, SSD1306 screen, a simple detector circuit and... a piece of foil. 
+An ongoing DIY project to research and develop a DIY lightning/general electrostatics detection circuit. 
+The project uses an Arduino Nano, SSD1306 screen and a simple detector circuit. 
 
 The full circuit diagram is to follow, but the base circuit has been uploaded. 
 See the Slider2732_ YouTube channel for more information and videos about this project.  
@@ -10,7 +10,7 @@ See the Slider2732_ YouTube channel for more information and videos about this p
 The required project parts: <br>
 --- Processing section <br>
 Arduino Nano <br>
-SSD1306 128x64 <br>
+SSD1306 128x64 I2C<br>
 10K variable potentiometer <br>
 22K resistor <br>
 <br>
