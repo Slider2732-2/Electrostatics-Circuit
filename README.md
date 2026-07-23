@@ -7,7 +7,7 @@ This project uses the Arduino IDE for code development. <br>
 Current version is ElectrostaticDetector_V101.ino, which is Version 1.01
 <br><br>
 Note <br>
-The grey wire running down the middle of the board is from the transistor Collector to Arduino A0 and is shielded (this one was from an ESP32 antenna extension). I tried unshielded and it did not work anywhere near as well as the shielded wire. 
+The grey wire running down the middle of the board is from the transistor Collector to Arduino A0 and is shielded (this one was from an ESP32 antenna extension). I tried unshielded and it did not work anywhere near as well as the shielded wire. Shield to circuit ground, core to transistor and A0.
 <br>
 ![Picture](./Pictures/ESVsmall.jpg)
 <br>
