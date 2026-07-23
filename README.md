@@ -3,7 +3,8 @@ The project uses an Arduino Nano, SSD1306 screen, a simple detector circuit and.
 
 The full circuit diagram is to follow, but the base circuit has been uploaded. 
 See the Slider2732_ YouTube channel for more information and videos about this project.  
-
+<br>
+![plot](./Pictures/ES veroboard small.JPG)
 <br>
 <br>
 The required project parts: <br>
