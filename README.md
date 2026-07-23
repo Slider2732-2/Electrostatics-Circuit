@@ -2,7 +2,8 @@ An ongoing DIY project to research and develop a DIY lightning/general electrost
 The project uses an Arduino Nano, SSD1306 screen and a simple detector circuit. 
 
 The full circuit diagram is to follow, but the base circuit has been uploaded. 
-See the Slider2732_ YouTube channel for more information and videos about this project.  
+See the Slider2732_ YouTube channel for more information and videos about this project.
+This project uses the Arduino IDE for code development.
 <br>
 ![Picture](./Pictures/ESVsmall.jpg)
 <br>
