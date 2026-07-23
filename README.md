@@ -5,7 +5,7 @@ The full circuit diagram is to follow, but the base circuit has been uploaded. <
 See the Slider2732_ YouTube channel for more information and videos about this project. <br>
 This project uses the Arduino IDE for code development. <br>
 Current version is ElectrostaticDetector_V101.ino, which is Version 1.01
-<br>
+<br><br>
 ![Picture](./Pictures/ESVsmall.jpg)
 <br>
 <br>
