@@ -1,4 +1,5 @@
 An ongoing DIY project to research and develop a DIY lightning/general electrostatics detection circuit. <br>
+It was created to explore measurable environmental changes using inexpensive electronics. The device does not identify causes of detected changes; it provides repeatable readings that can be compared across locations and conditions. <br>
 The project uses an Arduino Nano, SSD1306 screen and a simple detector circuit.<br><br> 
 
 The full circuit diagram is included above. <br>
