@@ -5,6 +5,9 @@ The full circuit diagram is included above. <br>
 See the Slider2732_ YouTube channel for more information and development videos. <br>
 This project uses the Arduino IDE for code development. <br>
 Current version is ElectrostaticDetector_V101.ino, which is Version 1.01
+<br>
+<br>
+This instrument reports the change in the Arduino analogue reading from the calibration baseline. The displayed values are not calibrated electrostatic field strength (e.g. V/m), but relative measurements that allow repeatable comparisons between locations and conditions.
 <br><br>
 Note <br>
 The grey wire running down the middle of the board is from the transistor Collector to Arduino A0 and is shielded (this one was from an ESP32 antenna extension). I tried unshielded and it did not work anywhere near as well as the shielded wire. Shield to circuit ground, core to transistor and A0.
