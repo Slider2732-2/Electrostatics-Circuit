@@ -23,6 +23,11 @@ SSD1306 128x64 I2C<br>
 10K variable potentiometer <br>
 22K resistor <br>
 <br>
+Optional:
+<br>
+Small headphone type speaker <br>
+1K variable potentiometer for sound volume
+<br><br>
 --- Sensor section <br> 
 100uf 16V electrolytic capacitor <br>
 0.1uF ceramic capacitor <br>
