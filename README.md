@@ -3,9 +3,10 @@ It was created to explore measurable environmental changes using inexpensive ele
 The project uses an Arduino Nano, SSD1306 screen and a simple detector circuit.<br><br> 
 
 The full circuit diagram is included above. <br>
+New is the addition of the circuit diagram including the speaker output. <br>
 See the Slider2732_ YouTube channel for more information and development videos. <br>
 This project uses the Arduino IDE for code development. <br>
-Current version is ElectrostaticDetector_V101.ino, which is Version 1.01
+Current version is ElectrostaticDetector_V112.ino, which is Version 1.12
 <br>
 <br>
 This instrument reports the change in the Arduino analogue reading from the calibration baseline. The displayed values are not calibrated electrostatic field strength (e.g. V/m), but relative measurements that allow repeatable comparisons between locations and conditions.
