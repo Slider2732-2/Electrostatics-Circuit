@@ -15,7 +15,7 @@ Notes: <br>
 The grey wire running down the middle of the board is from the transistor Collector to Arduino A0 and is shielded (this one was from an ESP32 antenna extension). I tried non shielded and it did not work anywhere near as well as the shielded wire. Shield to circuit ground, core to transistor and A0.
 <br>
 Also, depending on your USB supply you may need a 'Keep Alive' circuit between the source and the circuit. The circuit may not draw enough power for some powerbanks. 
-<br>
+<br><br>
 ![Picture](./Pictures/ES_Vero_Full_small.JPG)
 <br>
 <br>
