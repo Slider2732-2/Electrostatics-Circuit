@@ -9,10 +9,12 @@ This project uses the Arduino IDE for code development. <br>
 Current version is ElectrostaticDetector_V112.ino, which is Version 1.12
 <br>
 <br>
-This instrument reports the change in the Arduino analogue reading from the calibration baseline. The displayed values are not calibrated electrostatic field strength (e.g. V/m), but relative measurements that allow repeatable comparisons between locations and conditions.
+This device reports the change in the Arduino analogue reading from the calibrated baseline. The displayed values are not calibrated electrostatic field strength (e.g. V/m), but relative measurements that allow repeatable comparisons between locations and conditions.
 <br><br>
-Note <br>
+Notes: <br>
 The grey wire running down the middle of the board is from the transistor Collector to Arduino A0 and is shielded (this one was from an ESP32 antenna extension). I tried non shielded and it did not work anywhere near as well as the shielded wire. Shield to circuit ground, core to transistor and A0.
+<br>
+Also, depending on your USB supply you may need a 'Keep Alive' circuit between the source and the circuit. The circuit may not draw enough power for some powerbanks. 
 <br>
 ![Picture](./Pictures/ES_Vero_Full_small.JPG)
 <br>
