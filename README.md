@@ -14,7 +14,7 @@ This instrument reports the change in the Arduino analogue reading from the cali
 Note <br>
 The grey wire running down the middle of the board is from the transistor Collector to Arduino A0 and is shielded (this one was from an ESP32 antenna extension). I tried non shielded and it did not work anywhere near as well as the shielded wire. Shield to circuit ground, core to transistor and A0.
 <br>
-![Picture](./Pictures/ES_vero_Full_small.jpg)
+![Picture](./Pictures/ES_Vero_Full_small.jpg)
 <br>
 <br>
 The required project parts: <br>
