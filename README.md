@@ -12,9 +12,9 @@ Current version is ElectrostaticDetector_V112.ino, which is Version 1.12
 This instrument reports the change in the Arduino analogue reading from the calibration baseline. The displayed values are not calibrated electrostatic field strength (e.g. V/m), but relative measurements that allow repeatable comparisons between locations and conditions.
 <br><br>
 Note <br>
-The grey wire running down the middle of the board is from the transistor Collector to Arduino A0 and is shielded (this one was from an ESP32 antenna extension). I tried unshielded and it did not work anywhere near as well as the shielded wire. Shield to circuit ground, core to transistor and A0.
+The grey wire running down the middle of the board is from the transistor Collector to Arduino A0 and is shielded (this one was from an ESP32 antenna extension). I tried non shielded and it did not work anywhere near as well as the shielded wire. Shield to circuit ground, core to transistor and A0.
 <br>
-![Picture](./Pictures/ESVsmall.jpg)
+![Picture](./Pictures/ES_vero_Full_small.jpg)
 <br>
 <br>
 The required project parts: <br>
