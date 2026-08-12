@@ -34,6 +34,7 @@ Optional:
 <br>
 Small headphone type speaker <br>
 1K variable potentiometer for sound volume
+Various LED's for the LED detection level section
 <br><br>
 --- Sensor section <br> 
 100uf 16V electrolytic capacitor <br>
