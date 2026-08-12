@@ -1,12 +1,12 @@
 An ongoing DIY project to research and develop a DIY lightning/general electrostatics detection circuit. <br>
 It was created to explore measurable environmental changes using inexpensive electronics. The device does not identify causes of detected changes; it provides repeatable readings that can be compared across locations and conditions. <br>
-The project uses an Arduino Nano, SSD1306 screen and a simple detector circuit. Optionally, you can also use a small speaker for sound output. <br><br> 
+The project uses an Arduino Nano, SSD1306 screen and a simple detector circuit. Optionally, you can also use a small speaker for sound output and/or add an LED levels display. <br><br> 
 
 The full circuit diagram is included above. <br>
-New is the addition of the circuit diagram including the speaker output. <br>
+New is the addition of the circuit diagram including the speaker output and LED's. <br>
 See the Slider2732_ YouTube channel for more information and development videos. <br>
 This project uses the Arduino IDE for code development. <br>
-Current version is ElectrostaticDetector_V112.ino, which is Version 1.12
+Current version is ElectrostaticDetector_V124.ino, which is Version 1.24
 <br>
 <br>
 This device reports the change in the Arduino analogue reading from the calibrated baseline. The displayed values are not calibrated electrostatic field strength (e.g. V/m), but relative measurements that allow repeatable comparisons between locations and conditions.
@@ -18,6 +18,11 @@ Also, depending on your USB supply you may need a 'Keep Alive' circuit between t
 <br><br>
 ![Picture](./Pictures/ES_Vero_Full_small.JPG)
 <br>
+<br>
+Here is the optional LED's section -
+
+<br>
+![Picture](./Pictures/Optional LED's_small.jpg)
 <br>
 The required project parts: <br>
 --- Processing section <br>
