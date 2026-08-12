@@ -22,6 +22,7 @@ Also, depending on your USB supply you may need a 'Keep Alive' circuit between t
 Here is the optional LED's section -
 
 <br>
+
 ![Picture](./Pictures/Optional_LED's_small.jpg)
 <br>
 The required project parts: <br>
